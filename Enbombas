@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF: 1, Tigo Sports
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  Eurocopa
+https://live.mitele.es/hls/live/2004101/telecinco/02.m3u8
+#EXTINF: 1, Eurocopa 2
+https://live.mitele.es/hls/live/2004102/cuatro/02.m3u8
+#EXTINF: 1, TUDN USA
+https://neuclnlds141dal.akamaized.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?h=d74af855a7e46ef8a67f4a4aa319fd43.1623707346912&hdnea=exp=1623707466~acl=/*~hmac=23FE242B2F825BA1448CA58BF2359EEC045A9E73E1455A85D17C5D4F0F874C1E&dfpkey=bQ2JGGVzTpqfCfcTZWay1Q&nltid=univisionnow&nltdt=0
